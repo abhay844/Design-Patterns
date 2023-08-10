@@ -1,4 +1,4 @@
-package creational.factorymethodpattern;
+package creational.factorymethod.pattern;
 
 public class CommercialPlan extends Plan{
 
